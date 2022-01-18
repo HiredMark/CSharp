@@ -1,9 +1,9 @@
-C# version 10.0 added manually to .csproj
-.Net core  4.6.2 
-.Net SDK 4.6.2 installed manually
-Packages that need to be isntalled: 
-Microsoft.CrmSdk.CoreAssemblies
-Microsoft.Net.Http
++ C# version 10.0 added manually to .csproj0
++ .Net core  4.6.2 
++ .Net SDK 4.6.2 installed manually
++ Packages that need to be isntalled: 
++ Microsoft.CrmSdk.CoreAssemblies
++ Microsoft.Net.Http
 
 
 
