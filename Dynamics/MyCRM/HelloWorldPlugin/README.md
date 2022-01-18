@@ -8,9 +8,12 @@ Microsoft.Net.Http
 
 
 Sample codesnippet for .csproj file 
+
+```
  <PropertyGroup>
     <TargetFramework>net462</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<LangVersion>10.0</LangVersion>
   </PropertyGroup>
+```
